@@ -809,5 +809,7 @@
 	</array>
 	<key>scopeName</key>
 	<string>source.apacheconf</string>
+	<key>uuid</key>
+	<string>8747d9e4-b308-4fc2-9aa1-66b6919bc7b9</string>
 </dict>
 </plist>
