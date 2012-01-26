@@ -1,0 +1,7 @@
+{
+  "repo": "ApacheConf.tmLanguage",
+  "name": "ApacheConf.tmLanguage",
+  "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
+  "author": "GreyWyvern and radiosilence",
+  "homepage": "https://github.com/colinta/ApacheConf.tmLanguage"
+}
