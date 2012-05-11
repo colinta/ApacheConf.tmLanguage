@@ -1,6 +1,14 @@
 Apache Conf file Syntax Highlighting
 ====================================
 
+Supported filetypes
+------------
+
+* .conf
+* .htaccess
+* .htgroups
+* .htpasswd
+
 Installation
 ------------
 
