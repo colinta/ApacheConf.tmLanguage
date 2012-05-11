@@ -6,6 +6,12 @@
 	<array>
 		<string>conf</string>
 		<string>CONF</string>
+		<string>htaccess</string>
+		<string>HTACCESS</string>
+		<string>htgroups</string>
+		<string>HTGROUPS</string>
+		<string>htpasswd</string>
+		<string>HTPASSWD</string>
 		<string>.htaccess</string>
 		<string>.HTACCESS</string>
 		<string>.htgroups</string>
