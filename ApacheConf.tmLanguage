@@ -253,7 +253,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(AuthAuthoritative|AuthGroupFile|AuthUserFile)\b</string>
+			<string>\b(AuthAuthoritative|AuthGroupFile|AuthUserFile|AuthBasicProvider|AuthBasicFake)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
