@@ -253,7 +253,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(AuthAuthoritative|AuthGroupFile|AuthUserFile|AuthBasicProvider|AuthBasicFake)\b</string>
+			<string>\b(AuthAuthoritative|AuthGroupFile|AuthUserFile|AuthBasicProvider|AuthBasicFake|AuthBasicAuthoritative|AuthBasicUseDigestAlgorithm)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -289,7 +289,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(AuthDigestAlgorithm|AuthDigestDomain|AuthDigestFile|AuthDigestGroupFile|AuthDigestNcCheck|AuthDigestNonceFormat|AuthDigestNonceLifetime|AuthDigestQop|AuthDigestShmemSize)\b</string>
+			<string>\b(AuthDigestAlgorithm|AuthDigestDomain|AuthDigestFile|AuthDigestGroupFile|AuthDigestNcCheck|AuthDigestNonceFormat|AuthDigestNonceLifetime|AuthDigestQop|AuthDigestShmemSize|AuthDigestProvider)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
