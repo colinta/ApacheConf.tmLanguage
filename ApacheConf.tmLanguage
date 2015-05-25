@@ -720,7 +720,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(php_value|php_flag)\b(\s+(.+?)(\s+(.+?))?)?\s</string>
+			<string>\b(php_value|php_flag|php_admin_value|php_admin_flag)\b(\s+(.+?)(\s+(.+?))?)?\s</string>
 		</dict>
 
 		<dict>
