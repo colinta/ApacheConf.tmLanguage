@@ -409,7 +409,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(DirectoryIndex|DirectorySlash)\b</string>
+			<string>\b(DirectoryIndex|DirectorySlash|FallbackResource)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
