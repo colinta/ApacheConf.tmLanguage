@@ -6,6 +6,7 @@
 	<array>
 		<string>conf</string>
 		<string>CONF</string>
+		<string>envvars</string>
 		<string>htaccess</string>
 		<string>HTACCESS</string>
 		<string>htgroups</string>
