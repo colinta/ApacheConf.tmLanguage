@@ -1,5 +1,5 @@
 {
-  "name": "ApacheConf.tmLanguage",
+  "name": "ApacheConf",
   "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
   "author": "GreyWyvern and radiosilence",
   "details": "https://github.com/colinta/ApacheConf.tmLanguage",
