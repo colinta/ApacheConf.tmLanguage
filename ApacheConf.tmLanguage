@@ -322,6 +322,18 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
+					<string>keyword.filter.apacheconf</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>\b(BalancerMember|BalancerGrowth|BalancerPersist|BalancerInherit)\b</string>
+		</dict>		
+		<dict>			
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
 					<string>keyword.cache.apacheconf</string>
 				</dict>
 			</dict>
@@ -483,6 +495,18 @@
 			</dict>
 			<key>match</key>
 			<string>\b(CacheFile|MMapFile)\b</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.filter.apacheconf</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>\b(AddOutputFilterByType|FilterChain|FilterDeclare|FilterProtocol|FilterProvider|FilterTrace)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -676,6 +700,18 @@
 			<key>match</key>
 			<string>\b(SSLCACertificateFile|SSLCACertificatePath|SSLCARevocationFile|SSLCARevocationPath|SSLCertificateChainFile|SSLCertificateFile|SSLCertificateKeyFile|SSLCipherSuite|SSLEngine|SSLMutex|SSLOptions|SSLPassPhraseDialog|SSLProtocol|SSLProxyCACertificateFile|SSLProxyCACertificatePath|SSLProxyCARevocationFile|SSLProxyCARevocationPath|SSLProxyCipherSuite|SSLProxyEngine|SSLProxyMachineCertificateFile|SSLProxyMachineCertificatePath|SSLProxyProtocol|SSLProxyVerify|SSLProxyVerifyDepth|SSLRandomSeed|SSLRequire|SSLRequireSSL|SSLSessionCache|SSLSessionCacheTimeout|SSLUserName|SSLVerifyClient|SSLVerifyDepth)\b</string>
 		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.substitute.apacheconf</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>\b(Substitute|SubstituteInheritBefore|SubstituteMaxLineLength)\b</string>
+		</dict>		
 		<dict>
 			<key>captures</key>
 			<dict>
