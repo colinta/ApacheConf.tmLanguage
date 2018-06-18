@@ -24,13 +24,6 @@ Or:
 
 2. clone this repo
 
-### Sublime Text 2
-
-1. Open the Sublime Text 2 Packages folder
-2. clone this repo, but use the `st2` branch
-
-       git clone -b st2 git@github.com:colinta/ApacheConf.tmLanguage
-
 
 Credits
 -------
