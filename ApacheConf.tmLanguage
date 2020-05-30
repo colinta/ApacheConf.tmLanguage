@@ -820,7 +820,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>constant.integer.apacheconf</string>
+					<string>constant.numeric.integer.decimal.apacheconf</string>
 				</dict>
 			</dict>
 			<key>match</key>
