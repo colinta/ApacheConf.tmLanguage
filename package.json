@@ -1,14 +1,18 @@
 {
   "name": "ApacheConf",
-  "previous_names": ["ApacheConf.tmLanguage"],
+  "previous_names": [
+    "ApacheConf.tmLanguage"
+  ],
   "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
   "author": "GreyWyvern and radiosilence",
   "details": "https://github.com/colinta/ApacheConf.tmLanguage",
-  "labels": ["language syntax"],
+  "labels": [
+    "language syntax"
+  ],
   "releases": [
     {
-      "sublime_text": "*",
-      "details": "https://github.com/colinta/ApacheConf.tmLanguage/tags"
+      "tags": true,
+      "sublime_text": ">=3000"
     }
   ]
 }
